@@ -5,8 +5,11 @@ Students are expected to implement and analyze the behavior of hash functions,
 evaluate their efficiency, and understand their applications in computer science.
 
 Developer: Chun-Ting Lin
+
 Email: s1133351@mail.yzu.edu.tw
+
 Environment: macOS
+
 
 ## My Hash Function
 ### Integer Keys 
