@@ -104,10 +104,10 @@ Environment: macOS
   ```
 
 ### Result Snapshot
-- My output for integers:
+- My output for integers:<br>
   <img src="./IMG/hash_fn_int.jpg" width="50%">
   
-- My output for strings:
+- My output for strings:<br>
   <img src="./IMG/hash_fn_string.png" width="50%">
 
 - My output for integers:
