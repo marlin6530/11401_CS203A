@@ -5,9 +5,7 @@ Students are expected to implement and analyze the behavior of hash functions,
 evaluate their efficiency, and understand their applications in computer science.
 
 Developer: Chun-Ting Lin
-
 Email: s1133351@mail.yzu.edu.tw
-
 Environment: macOS
 
 
@@ -107,10 +105,10 @@ Environment: macOS
 
 ### Result Snapshot
 - My output for integers:
-  ![integer](./IMG/hash_fn_int.jpg)
+  <img src="./IMG/hash_fn_int.jpg" width="45%">
   
 - My output for strings:
-  ![non-integer](./IMG/hash_fn_string.png)
+- <img src="./IMG/hash_fn_string.png" width="50%">
 
 - My output for integers:
   ```
