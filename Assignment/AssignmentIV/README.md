@@ -105,10 +105,10 @@ Environment: macOS
 
 ### Result Snapshot
 - My output for integers:
-  <img src="./IMG/hash_fn_int.jpg" width="45%">
+  <img src="./IMG/hash_fn_int.jpg" width="50%">
   
 - My output for strings:
-- <img src="./IMG/hash_fn_string.png" width="50%">
+  <img src="./IMG/hash_fn_string.png" width="50%">
 
 - My output for integers:
   ```
