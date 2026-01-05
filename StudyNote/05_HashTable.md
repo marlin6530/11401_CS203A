@@ -1,5 +1,3 @@
-# 05-hash-table-no-code.md
-
 # Hash Table（雜湊表）
 
 ## 定義
@@ -61,3 +59,4 @@ Hash Table 利用**雜湊函數（hash function）**，將「鍵（key）」對�
   - key → value 查詢
   - 判斷元素是否出現過
 - 不在意資料的整體排序，只在意存不存在 / 對應值
+
