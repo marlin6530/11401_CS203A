@@ -1,5 +1,3 @@
-# 04-stack-queue-no-code.md
-
 # Stack & Queue（堆疊與佇列）
 
 ## Stack（堆疊）
@@ -66,3 +64,4 @@ Deque（Double-Ended Queue）允許在前後兩端皆可插入與移除。
   - 例：Undo、瀏覽器回上一頁、遞迴展開
 - **需要維持「順序處理」** → Queue
   - 例：工作排程、IO 佇列、封包處理、BFS
+
