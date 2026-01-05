@@ -1,5 +1,3 @@
-# 06-tree-no-code.md
-
 # Tree（樹）
 
 ## 定義
